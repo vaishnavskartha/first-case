@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+}
+header h3{
+    float: left;
+    margin-top:50px ;
+    margin-left: 95px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navigation{
+    float: right;
+    margin-top: 50px;
+    margin-right:5%;
+}
+.navigation a{
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    margin-right: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    /*border: 1px solid black;*/
+    float:left;
+    margin-top: 60px;
+    margin-left:20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+    float: left;
+    margin-right:40%;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    text-decoration: underline;
+}
+div{
+    float: right;
+    width:20%;
+    margin-top: 8%;
+    margin-right:15%;
+    font-size:larger;
+    text-align:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*Skill*/
+.skill h2{
+    margin-top: 180%;
+    margin-left:120px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.skill ul{
+    float: left;
+    margin-left:-40%;
+    margin-top:5%;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*Education*/
+.education h2{
+    margin-left: -132%;
+    text-decoration: underline;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.education ul{
+    margin-left:-550px; 
+    margin-top: 30%; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+/*Contact form*/
+.contact h2{
+    text-decoration: underline;
+    margin-top:160%;
+    margin-left: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 200%;
+    width: 300px;
+}
+/* Footer */
+footer {
+    color: red;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50%;
+}
+
